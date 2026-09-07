@@ -11,14 +11,14 @@
             "id": "c881ab021b5a3dcf",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "README.md",
-                "bFile": "README.md",
-                "aRef": ""
+                "file": "test/testing.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: README  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "testing"
             }
           }
         ]
@@ -115,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "test/testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "test/testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -175,6 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "test/testing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -214,6 +217,8 @@
   },
   "active": "c881ab021b5a3dcf",
   "lastOpenFiles": [
+    "jsdsdal-wiki/README.md",
+    "jsdsdal-wiki",
     "README.md",
     "test/testing.md",
     "test",
